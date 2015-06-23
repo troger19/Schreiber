@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Schreiber</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main_activity1">MainActivity1</string>
+    <string name="drawer_open">Open Navigation Drawer</string>
+    <string name="drawer_close">Close Navigation Drawer</string>
+
+    <!-- Menu items -->
+    <string-array name="main_menu">
+        <item>Test</item>
+        <item>Activate Phrase</item>
+        <item>Settings</item>
+        <item>Item1</item>
+    </string-array>
+
+    <!-- Topic list, must be fill manually -->
+    <string-array name="topic_array">
+        <item>Greetings</item>
+        <item>Phrase</item>
+        <item>Phrase1</item>
+        <item>Phraseologism</item>
+        <item>Phraseologism1</item>
+        <item>Präteritum</item>
+        <item>Future</item>
+        <item>GermanPod1</item>
+        <item>GermanPod2</item>
+        <item>GermanPod3</item>
+        <item>GermanPod4</item>
+        <item>GermanPod5</item>
+        <item>GermanPod6</item>
+        <item>GermanPod7</item>
+        <item>GermanPod8</item>
+        <item>B2_Lesson4.1</item>
+        <item>B2_Lesson4.2</item>
+        <item>B2_Lesson4.3</item>
+        <item>Konjuktiv I 1</item>
+        <item>Online 1</item>
+        <item>Online 2</item>
+        <item>Online 3</item>
+        <item>Online 4</item>
+        <item>Online 5</item>
+        <item>Online 6</item>
+    </string-array>
+
+</resources>
